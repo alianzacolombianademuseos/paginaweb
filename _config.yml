@@ -4,8 +4,7 @@ author:
   email: alianzacolombianademuseos@gmail.com
 description: La ACdM es una iniciativa autónoma que nace como respuesta a la emergencia causada por la pandemia en el país; busca dar voz al sector museos en la sociedad colombiana, posicionarlo en la opinión pública y lograr una mayor incidencia de éste en las políticas públicas relacionadas con la cultura y el patrimonio.
 
-# google_analytics: 
-baseurl: alianzacolombianademuseos.co
+google_analytics: UA-177225252-1
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
