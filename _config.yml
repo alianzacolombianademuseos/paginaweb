@@ -1,0 +1,60 @@
+title: ACdM
+author:
+  name: Alianza Colombiana de Museos
+  email: alianzacolombianademuseos@gmail.com
+description: La ACdM es una iniciativa autónoma que nace como respuesta a la emergencia causada por la pandemia en el país; busca dar voz al sector museos en la sociedad colombiana, posicionarlo en la opinión pública y lograr una mayor incidencia de éste en las políticas públicas relacionadas con la cultura y el patrimonio.
+
+# google_analytics: 
+baseurl: alianzacolombianademuseos/paginaweb
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y/%m/%d"
+
+  # generate social links in footer
+  social_links:
+    twitter: AlianzaMuseos
+    github:  gitalianzacolombianademuseos
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    instagram: AlianzaMuseos
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
