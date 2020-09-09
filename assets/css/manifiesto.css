@@ -23,6 +23,21 @@ article p {
     font-size: 30px;
     line-height: 1.8;
 }
+article em {
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+    font-style: initial;
+}
+article hr {
+    border: 0;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 23px;
+}
+
+article hr:before {
+    content: "***";
+}
 
 .footer-col-wrapper{
     color: #000000;
