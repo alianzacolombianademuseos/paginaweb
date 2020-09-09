@@ -5,7 +5,7 @@ permalink: "/manifiesto"
 custom_css: manifiesto
 ---
 
-> ¿Cómo nos vamos a soñar? Soraya Bayuelo Castellar, Montes de María
+> ¿Cómo nos vamos a soñar? —Soraya Bayuelo Castellar, Montes de María.
 
 La Alianza Colombiana de Museos es una iniciativa autónoma que nace como respuesta a la intensificación de la crisis de nuestras instituciones, causada por la cuarentena ordenada por las autoridades a raíz de la emergencia sanitaria global del 2020.
 
