@@ -55,4 +55,4 @@ Firmado en septiembre de 2020, en medio de la cuarentena, por:
 {% endfor %}
 </ul>
 
->Firmas actualizadas el 2020-09-10 a las 10:00 a.m.
+>Firmas actualizadas el 2020-09-10 a las 18:00 a.m.
