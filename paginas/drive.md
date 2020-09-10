@@ -26,10 +26,10 @@ Balance de lo que hemos hecho.
 
 ## Estructura
 
-1_manifiesto instituyente 
-2_comision_comunicaciones
-3_comision_sondeo
-4_comision_agendaacademica
-5_comision_investigacion
-6_comision_normativa
-7_Recursoscolectivos
+- 1_manifiesto instituyente 
+- 2_comision_comunicaciones
+- 3_comision_sondeo
+- 4_comision_agendaacademica
+- 5_comision_investigacion
+- 6_comision_normativa
+- 7_Recursoscolectivos
