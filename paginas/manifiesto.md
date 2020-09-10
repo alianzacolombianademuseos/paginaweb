@@ -43,4 +43,16 @@ Por último, queremos construir agendas de trabajo conjuntas, participativas y c
 
 ***
 
-Firmado en septiembre de 2020, en medio de la cuarentena, por
+Firmado en septiembre de 2020, en medio de la cuarentena, por:
+
+<ul>
+{% for firma in site.data.firmas %}
+    <li>
+        <b>{{ firma.nombre }}</b> <br>
+        <i>{{ firma.perfil }}</i> <br>
+        {{ firma.lugar }}
+    </li>
+{% endfor %}
+</ul>
+
+>Firmas actualizadas el 2020-09-10 a las 10:00 a.m.
