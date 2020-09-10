@@ -12,7 +12,7 @@ Balance de lo que hemos hecho.
 -	No borrar información
 -	Por temas de orden las carpetas que se añadan a la estructura principal deben ser llevadas a comité. 
 
-## Recomendaciones para nombrar archivos
+## Recomendaciones para nombrar archivos
 
 1.	Usar sólo letras minúsculas
 2.	No tildes
@@ -24,7 +24,7 @@ Balance de lo que hemos hecho.
 8.	No exceder 25 caracteres para nombrar un archivo
 9.	Máximo 4 niveles de subcarpetas
 
-## Estructura
+## Estructura
 
 1_manifiesto instituyente 
 2_comision_comunicaciones
