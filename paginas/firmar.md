@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Firma"
-permalink: "/firma"
+title: "Firmar"
+permalink: "/firmar"
 visible: "hide"
 ---
 
