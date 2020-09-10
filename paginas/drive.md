@@ -2,6 +2,7 @@
 layout: page
 title: "Manual de uso Dirve Alianza Colombiana de Museos "
 permalink: "/usodrive"
+visible: "hide"
 ---
 ## Para qué: 
 Acceso, participación, transparencia, organización de ideas. 
