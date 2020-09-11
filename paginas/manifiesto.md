@@ -56,3 +56,6 @@ Firmado en septiembre de 2020, en medio de la cuarentena, por:
 </ul>
 
 >Firmas actualizadas el 2020-09-10 a las 18:00 a.m.
+
+
+[Descargar manifiesto en PDF](https://alianzacolombianademuseos.co/assets/docs/Manifiesto_ACdM.pdf)
