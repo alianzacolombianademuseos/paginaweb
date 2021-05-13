@@ -17,7 +17,7 @@ Más información en redes sociales
 
 ***
 
-## ¿quiénes se han adherido al Paro Internacional de Museos¿
+## ¿Quiénes se han adherido al Paro Internacional de Museos?
 
 <ul>
 {% for adhesiones13m in site.data.adhesiones13m %}
