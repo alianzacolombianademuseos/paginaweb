@@ -5,7 +5,8 @@ permalink: "/museosenparo"
 ---
 
 #MuseosEnParo
-{% twitter https://twitter.com/hashtag/MuseosEnParo maxwidth=500 limit=5 %}
+
+![Museos en paro camapaña](https://pbs.twimg.com/media/E1H5vfTXIAQ6pZG?format=jpg&name=small)
 
 ***
 
