@@ -4,7 +4,9 @@ title: "Paro Internacional de Museos"
 permalink: "/museosenparo"
 ---
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=MuseosEnParo&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #MuseosEnParo</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#MuseosEnParo
+{% twitter https://twitter.com/hashtag/MuseosEnParo maxwidth=500 limit=5 %}
+
 ***
 
 Adhesiones al :
