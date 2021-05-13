@@ -10,7 +10,7 @@ permalink: "/museosenparo"
 Adhesiones al :
 
 <ul>
-{% for firma in site.data.adhesiones13m %}
+{% for adhesiones13m in site.data.adhesiones13m %}
     <li>
         <b>{{ adhesiones13m.institucion }}</b> <br>
         <i>{{ adhesiones13m.lugar }}</i>
