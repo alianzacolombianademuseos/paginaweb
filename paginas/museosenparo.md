@@ -10,7 +10,7 @@ permalink: "/museosenparo"
 
 ***
 
-Adhesiones al :
+Adhesiones al Paro Internacional de Museos:
 
 <ul>
 {% for adhesiones13m in site.data.adhesiones13m %}
