@@ -4,13 +4,20 @@ title: "Paro Internacional de Museos"
 permalink: "/museosenparo"
 ---
 
-#MuseosEnParo
-
 ![Museos en paro camapaña](https://pbs.twimg.com/media/E1H5vfTXIAQ6pZG?format=jpg&name=small)
+
+Más información en redes sociales
+
+[#museosenparo](https://twitter.com/hashtag/museosenparo)
+
+[#MuseumsAreNotNeutral](https://twitter.com/hashtag/MuseumsAreNotNeutral)
+
+[#SOSColombia](https://twitter.com/hashtag/SOSColombia)
+
 
 ***
 
-Adhesiones al Paro Internacional de Museos:
+## ¿quiénes se han adherido al Paro Internacional de Museos¿
 
 <ul>
 {% for adhesiones13m in site.data.adhesiones13m %}
