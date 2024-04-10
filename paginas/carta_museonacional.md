@@ -4,3 +4,5 @@ title: "Comunicación ante solicitud de cambio de dirección del Museo Nacional 
 ---
 
 <iframe src="../assets/docs/Comunicado_Cambio_Direccion_Museo_Nacional_Colombia.pdf" width="100%" height="500px">
+
+[Leer en pantalla completa](https://alianzacolombianademuseos.co/assets/docs/Comunicado_Cambio_Direccion_Museo_Nacional_Colombia.pdf) | [✒️ Firmar](https://forms.gle/CQkZp1VRXudgzgiw9)
