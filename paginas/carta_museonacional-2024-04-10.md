@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Comunicación ante solicitud de cambio de dirección del Museo Nacional de Colombia"
+title: "Comunicación ante el cambio de dirección del Museo Nacional, entidad rectora del sector museal y llamado a continuar en el objetivo de la Ley de Museos."
 ---
 
 ![1de4](../assets/docs/Comunicado_Cambio_Direccion_Museo_Nacional_Colombia-1.png)
